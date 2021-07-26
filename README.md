@@ -1,5 +1,4 @@
-# Professional README Generator Starter Code
+# Readme Generator
 
-[How to create a Professional README](./readme-guide.md)
+Run index.js in the develop folder to create a professional readme file.
 
-# 
